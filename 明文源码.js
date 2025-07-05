@@ -1,6 +1,6 @@
 //saddfd
-// gff
-//tr
+// dssssssszxzz7888gff
+
 
 import { connect } from 'cloudflare:sockets';
 
@@ -5187,3 +5187,6 @@ const clashConfigTemp = {
         "interval": 30
     }
 };
+//saddfd
+// gff
+//tr
