@@ -1,4 +1,6 @@
-//mashti
+//saddfd
+// gff
+//tr
 
 import { connect } from 'cloudflare:sockets';
 
